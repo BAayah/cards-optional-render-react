@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cards-optional-render-react/static/css/main.c047af46.css",
+    "main.js": "/cards-optional-render-react/static/js/main.5b566baf.js",
+    "static/media/img1.png": "/cards-optional-render-react/static/media/img1.8a8cac9f2b364ac09879.png",
+    "static/media/img10.png": "/cards-optional-render-react/static/media/img10.83dea6794d824d23ba7f.png",
+    "static/media/img8.jpg": "/cards-optional-render-react/static/media/img8.e32520c7d05ced1e047f.jpg",
+    "static/media/img3.png": "/cards-optional-render-react/static/media/img3.8b58ae34c02a201267d5.png",
+    "static/media/img9.png": "/cards-optional-render-react/static/media/img9.a94f6afb2b0db18146f2.png",
+    "static/media/hero5.png": "/cards-optional-render-react/static/media/hero5.93bc470fcd44f764f1c7.png",
+    "static/media/img4.png": "/cards-optional-render-react/static/media/img4.4b0bce89ec192ba5016f.png",
+    "static/media/img2.png": "/cards-optional-render-react/static/media/img2.bb3f52da3c6213df0cae.png",
+    "static/media/img6.webp": "/cards-optional-render-react/static/media/img6.a079daf9ddbe191a43ac.webp",
+    "index.html": "/cards-optional-render-react/index.html",
+    "main.c047af46.css.map": "/cards-optional-render-react/static/css/main.c047af46.css.map",
+    "main.5b566baf.js.map": "/cards-optional-render-react/static/js/main.5b566baf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c047af46.css",
+    "static/js/main.5b566baf.js"
+  ]
+}
